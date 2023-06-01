@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TouchDirWithFileDate2": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\dropbox\\mp3 -r"
+    }
+  }
+}
